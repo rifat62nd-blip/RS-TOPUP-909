@@ -1,18 +1,17 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "RS TOPUP 909";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/rstopup909";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "WELLCOME TO RS_GROUP
-https://t.me/RS_GROUP909";
+var telegram_group_link = "https://t.me/RSTOPUP909GROUP";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
