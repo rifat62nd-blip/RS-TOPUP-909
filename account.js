@@ -11,12 +11,13 @@ var telegram_channel_link = "telegram channel link";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "WELLCOME TO RS_GROUP
+https://t.me/RS_GROUP909";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://youtube.com/@rifathasan-p3q7q?si=qjGVr7xNO3gmcBDs";
 
 // =======================================================
 // NOTIFICATION TEXT
