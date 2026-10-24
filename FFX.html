@@ -1635,7 +1635,7 @@ setInterval(fetchFreshAccountConfig, 15000);
 (function(){
   // লগইন সিস্টেম যুক্ত করলে এখানে ইউজারের তথ্য বসান
   var USER = {
-    loggedIn: true,          // লগইন থাকলে true
+    loggedIn: false,          // লগইন থাকলে true
     name: '',                 // যেমন: 'MD EACIN 69'
     email: '',                // যেমন: 'eacin69x@gmail.com'
     avatar: ''                // প্রোফাইল ছবির লিংক (ফাঁকা থাকলে ডিফল্ট আইকন)
@@ -1722,7 +1722,7 @@ setInterval(fetchFreshAccountConfig, 15000);
 // ==========================================
 (function(){
   // লগইন সিস্টেম যুক্ত করলে এটা true করে দিন
-  var isLoggedIn=true;
+  var isLoggedIn=false;
   var LOGIN_URL='#';
 
   var home=document.getElementById('homeView'), ff=document.getElementById('ffView'), foot=document.getElementById('siteFooter');
@@ -1790,7 +1790,7 @@ setInterval(fetchFreshAccountConfig, 15000);
 // ==========================================
 (function(){
   // লগইন সিস্টেম যুক্ত করলে এটা true করে দিন
-  var isLoggedIn=true;
+  var isLoggedIn=false;
   var LOGIN_URL='#';
 
   var BALANCE=0;          // ইউজারের ওয়ালেট ব্যালেন্স (ব্যাকএন্ড থেকে বসান)
