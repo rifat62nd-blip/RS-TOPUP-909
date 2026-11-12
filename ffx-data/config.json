@@ -11,6 +11,7 @@
   "images": null,
   "prod": null,
   "texts": {
-    "playUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth"
+    "playUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+    "sec2": "OTHERS"
   }
 }
