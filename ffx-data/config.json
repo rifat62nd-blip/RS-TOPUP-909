@@ -9,7 +9,11 @@
   ],
   "quick": null,
   "images": null,
-  "prod": null,
+  "prod": {
+    "wm": {
+      "title": "WEEKLY/                   MONTHLY"
+    }
+  },
   "texts": {
     "playUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
     "sec2": "OTHER'S"
